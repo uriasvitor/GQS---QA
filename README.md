@@ -1,4 +1,4 @@
-Guia de Instalação e Execução de Testes com Cypress
+## Guia de Instalação e Execução de Testes com Cypress
 
 ### Pré-requisitos:
 
