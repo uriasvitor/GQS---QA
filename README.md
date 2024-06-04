@@ -8,14 +8,17 @@ npm (Gerenciador de pacotes Node)
 ### Passo 1: Clonar o Repositório
 Primeiro, clone o repositório para sua máquina local:
 
-``` git clone https://github.com/PHPauloReis/oficial2-matriculas-api.git
-cd oficial2-matriculas-api
+```
+git clone https://github.com/uriasvitor/GQS-QA_Prova.git
  ```
 
 ### Passo 2: Instalar Dependências
 
-Navegue até o diretório raiz do projeto e instale as dependências necessárias:
+Navegue até o diretório raiz do projeto e instale as dependências necessárias e com o comando:
 
+```
+npm i
+```
 ### Passo 3: Instalar o Cypress
 
 Se o Cypress não estiver instalado, você pode instalá-lo via npm:
